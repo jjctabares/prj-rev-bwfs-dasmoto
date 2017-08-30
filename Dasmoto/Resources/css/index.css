@@ -12,23 +12,23 @@ h1{
 
 }
 
-.brushes{
+.brushes,.frames,.paint{
   font-size: 32px;
-  font-weiht: bold;
+  font-weight: bold;
   color: white;
+}
+.brushes{
   background-color: mediumspringgreen;
 }
 
 .frames{
-  font-size: 32px;
-  font-weiht: bold;
-  color: white;
   background-color: lightcoral;
 }
 
 .paint{
-  font-size: 32px;
-  font-weiht: bold;
-  color: white;
   background-color: skyblue;
+}
+
+strong{
+  color:blue;
 }
